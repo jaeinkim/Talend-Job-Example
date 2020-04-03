@@ -18,6 +18,7 @@
 - Down Talend Open Studio for Data Integration
 https://www.talend.com/download/thankyou/data-integration-windows/
 - Import this source as root directory.
+- Configure DB Connection in Metadata. (Currently, Set Garbage data.)
 
 ## Requirements
 
