@@ -31,4 +31,12 @@ https://www.talend.com/download/thankyou/data-integration-windows/
 
 
 ## Etc (Reference)
+- What is Talend.
 https://medium.com/@top100itw/etl-talend-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EA%B8%B0-d8ea38d424ba
+
+- TroubleShooting for Talend
+https://medium.com/@top100itw/etl-talend-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-%EA%B8%B0%EB%A1%9D-5c02d51f3750
+
+
+
+
