@@ -8,6 +8,7 @@
 ## Types of Jobs
 
 - Truncate/Insert or Delete Insert
+  e.g., job name: truncate_insert
 <div>
   <img src = "https://user-images.githubusercontent.com/4458815/78332219-8abd7a00-75c2-11ea-84e1-3f01b64b87ca.png">
 </div>
@@ -17,7 +18,7 @@
 ## Settings
 - Down Talend Open Studio for Data Integration
 https://www.talend.com/download/thankyou/data-integration-windows/
-- Import this source as root directory.
+- Import item from job design level.
 - Configure DB Connection in Metadata. (Currently, Set Garbage data.)
 
 ## Requirements
