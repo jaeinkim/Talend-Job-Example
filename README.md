@@ -8,16 +8,33 @@
 ## Types of Jobs
 
 - Truncate/Insert or Delete Insert
+  <br> *e.g., job name: truncate_insert
 <div>
   <img src = "https://user-images.githubusercontent.com/4458815/78332219-8abd7a00-75c2-11ea-84e1-3f01b64b87ca.png">
 </div>
 
+- Watching and file transfer
+  <br> *e.g., job name: watching_fileinput_fileoutput
+<div>
+  <img src = "https://user-images.githubusercontent.com/4458815/79188325-b3166580-7e59-11ea-9fa1-a0724ce59951.png">
+</div>
 
+- Watching and transfer GCP
+<br> *e.g., job name: watching_output_GCP
+<div>
+  <img src = "https://user-images.githubusercontent.com/4458815/79188382-d214f780-7e59-11ea-9074-8ba7371e6408.png">
+</div>
+
+- email notify in case of error happening.
+<br> *e.g., job name: error_handling
+<div>
+  <img src = "https://user-images.githubusercontent.com/4458815/79188421-e953e500-7e59-11ea-82be-865fcdf2ff5f.png">
+</div>
 
 ## Settings
 - Down Talend Open Studio for Data Integration
 https://www.talend.com/download/thankyou/data-integration-windows/
-- Import this source as root directory.
+- Import item from job design level.
 - Configure DB Connection in Metadata. (Currently, Set Garbage data.)
 
 ## Requirements
