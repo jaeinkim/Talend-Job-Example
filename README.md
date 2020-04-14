@@ -8,7 +8,7 @@
 ## Types of Jobs
 
 - Truncate/Insert or Delete Insert
-  e.g., job name: truncate_insert
+  <br>e.g., job name: truncate_insert
 <div>
   <img src = "https://user-images.githubusercontent.com/4458815/78332219-8abd7a00-75c2-11ea-84e1-3f01b64b87ca.png">
 </div>
