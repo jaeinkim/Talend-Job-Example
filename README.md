@@ -31,6 +31,12 @@
   <img src = "https://user-images.githubusercontent.com/4458815/79188421-e953e500-7e59-11ea-82be-865fcdf2ff5f.png">
 </div>
 
+- 
+<div> move transferred file from source to backup folder.
+  <img src = "https://user-images.githubusercontent.com/4458815/79424386-070c8000-7ffb-11ea-814b-843f383b87e5.png">
+</div>
+
+
 ## Settings
 - Down Talend Open Studio for Data Integration
 https://www.talend.com/download/thankyou/data-integration-windows/
